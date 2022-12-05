@@ -1,0 +1,5 @@
+print("this is the python programming language")
+print("I am testing the print command!!.")
+print("The print command is useful.")
+print("It is a cross platform development environment.")
+print("it is brilliant.")
